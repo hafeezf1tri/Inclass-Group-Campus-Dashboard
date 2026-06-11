@@ -1,0 +1,4 @@
+Week 5 Dashboard Class Activity, built with 
+streamlit>=1.18.0
+pandas>=2.0.0
+altair>=5.2.0
