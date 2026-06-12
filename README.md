@@ -2,6 +2,8 @@
 
 ## Campus Pulse Dashboard
 
+https://inclass-group-campus-dashboard-9ddfbtd7qvhsdw4ohuzchx.streamlit.app/
+
 This project is a Streamlit dashboard built for the Week 5 Dashboard Class Activity. The dashboard presents a mock smart campus operations centre called **Campus Pulse**, showing resource usage, occupancy, and environmental impact across several campus buildings.
 
 The dashboard uses generated dummy data to simulate hourly campus readings for:
